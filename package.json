@@ -1,0 +1,24 @@
+{
+  "name": "ag-grid-27.0.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuning331/ag-grid-27.0.1.git"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuning331/ag-grid-27.0.1/issues"
+  },
+  "homepage": "https://github.com/zhuning331/ag-grid-27.0.1#readme",
+  "dependencies": {
+    "ag-grid-community": "^27.0.1",
+    "ag-grid-enterprise": "^27.0.1",
+    "ag-grid-vue3": "^27.0.0"
+  }
+}
